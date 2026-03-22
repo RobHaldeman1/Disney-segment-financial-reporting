@@ -119,6 +119,6 @@ Paste any of the six queries at the `sqlite>` prompt. SQLite3 comes pre-installe
 
 ---
 
-Rob [Last Name]
-B.S. Economics, [University], May 2026
-[LinkedIn] | [Email]
+Robert Haldeman Jr  
+B.A. Economics, Rowan University, May 2026
+www.linkedin.com/in/roberthaldemanjr | haldemanrob@gmail.com
