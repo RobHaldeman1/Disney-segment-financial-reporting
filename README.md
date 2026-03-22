@@ -88,6 +88,18 @@ Calculates operating margin percentage for each segment in each fiscal year, ena
 
 ---
 
+## Query Output Previews
+
+![Q2 Operating Income](q2_operating_income.png)
+
+![Q4 Linear vs DTC](q4_linear_dtc.png)
+
+![Q5 Experiences Seasonality](q5_seasonality.png)
+
+![Q6 Operating Margin](q6_margin.png)
+
+---
+
 ## Key Findings
 
 **Experiences is the profit engine.** Despite Entertainment being Disney's largest revenue segment at roughly $42 billion annually, Experiences runs at approximately 27–28% operating margin compared to Entertainment's 10–12%. The parks and cruise business are what fund Disney's streaming transition.
