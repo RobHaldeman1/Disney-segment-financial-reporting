@@ -72,7 +72,11 @@ This ended up being the most interesting result. Calculates operating margin per
 
 ## Query output previews
 
+![Q1 Revenue by Quarter](q1_revenue_by_quarter.png)
+
 ![Q2 Operating Income](q2_operating_income.png)
+
+![Q3 Revenue Share](q3_revenue_share.png)
 
 ![Q4 Linear vs DTC](q4_linear_dtc.png)
 
@@ -119,6 +123,6 @@ Paste any of the six queries at the `sqlite>` prompt. SQLite3 comes pre-installe
 
 ---
 
-Robert Haldeman Jr  
+Robert Haldeman Jr
 B.A. Economics, Rowan University, May 2026
 www.linkedin.com/in/roberthaldemanjr | haldemanrob@gmail.com
