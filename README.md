@@ -106,8 +106,8 @@ Calculates operating margin percentage for each segment in each fiscal year, ena
 
 **macOS/Linux terminal:**
 ```bash
-sqlite3 disney_reporting_v2.db < disney_segment_reporting.sql
-sqlite3 disney_reporting_v2.db
+sqlite3 disney_segment_reporting.db < disney_segment_reporting.sql
+sqlite3 disney_segment_reporting.db
 ```
 
 Then set up readable output and confirm data loaded:
@@ -137,6 +137,6 @@ Paste any query from the bottom of the `.sql` file at the `sqlite>` prompt and h
 
 ## Author
 
-Robert Haldeman Jr
-B.A. Economics, Rowan University — May 2026
-www.linkedin.com/in/roberthaldemanjr | haldemanrob@gmail.com
+Rob [Last Name]
+B.S. Economics, [University] — May 2026
+[LinkedIn URL] | [Email]
