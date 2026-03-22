@@ -149,6 +149,6 @@ Paste any query from the bottom of the `.sql` file at the `sqlite>` prompt and h
 
 ## Author
 
-Rob [Last Name]
-B.S. Economics, [University] — May 2026
-[LinkedIn URL] | [Email]
+Rob Haldeman
+B.S. Economics, Rowan University — May 2026
+www.linkedin.com/in/roberthaldemanjr | haldemanrob@gmail.com
