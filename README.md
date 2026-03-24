@@ -121,6 +121,6 @@ Then before running any queries:
 
 ---
 
-Robert Haldeman Jr
+Robert Haldeman Jr,
 B.A. Economics, Rowan University, May 2026
 www.linkedin.com/in/roberthaldemanjr | haldemanrob@gmail.com
