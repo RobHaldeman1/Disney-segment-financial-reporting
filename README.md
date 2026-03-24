@@ -111,8 +111,6 @@ Then before running any queries:
 .headers on
 ```
 
-Paste any of the six queries at the `sqlite>` prompt. SQLite3 comes pre-installed on macOS so no setup needed.
-
 ---
 
 ## Tools used
